@@ -1,0 +1,10 @@
+android/ATTR_MINIFY=true
+android/ATTR_PROJECT_NAME=Track Your Friends
+android/abi=armeabi-v7a
+android/distribute_path=/Users/compind/Desktop
+android/keystore_alias=Track Your Friends
+android/keystore_password=123456
+android/keystore_path=/Users/compind/Desktop/TrackurFriendsKey
+android/recent_output=/Users/compind/Desktop
+android/sdk_version=Google APIs Android 4.1.2
+eclipse.preferences.version=1
